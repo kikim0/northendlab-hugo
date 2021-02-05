@@ -19,14 +19,14 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 author = "Themefisher"
 contact_form_action = "#"
 copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
-description = "This is meta description"
+description = "Scientific Machine Learning for your mother"
 google_tag_manager = ""
 home = "Home"
 logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+title = "Scientific Machine Learning.<br> Delivered in Browser."
 [params.cookies]
 enable = true
 expire_days = 2
